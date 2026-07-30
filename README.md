@@ -38,7 +38,7 @@ Prompt构造
 ↓
 LLM生成回答
 
-##项目结构
+## 项目结构
 AI-Knowledge-Base-RAG
 │
 ├── app.py              # Gradio应用入口
