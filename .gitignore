@@ -1,6 +1,6 @@
-.env        #密钥文件
-__pycache__/    #python缓存文件
-*.pyc       #本地生成的向量数据库
+.env        
+__pycache__/    
+*.pyc       
 knowledge.faiss
 chunks.pkl
 docs/*.pdf
